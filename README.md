@@ -38,6 +38,5 @@ In my Applied Data Science Capstone, I applied skills in data collection, cleani
 ---
 
 ## 🔹 Contact  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- 📧 Email: contegno2000@gmail.com 
 - 🌐 GitHub: [github.com/Contegno2000](https://github.com/Contegno2000)  
